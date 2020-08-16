@@ -11,6 +11,6 @@ Note that I have never taken part or been affiliated with the course at UCL, so 
 
 To get started, have a look at the first 50 lines of easy21.py or run its main method.
 
-Edit the global parameter `DO_ASSIGNMENT` to run simulations for the assignment `RUN_EXAMPLES` to run multiple example simulations with different parameters and algorithms, and set `SAVE_PLOTS` to True to save figures before running the main method.
+Edit the global parameter `DO_ASSIGNMENT` to run simulations for the assignment, `RUN_EXAMPLES` to run multiple example simulations with different parameters and algorithms, and set `SAVE_PLOTS` to True to save figures before running the main method.
 
 The ./img folder contains the outputs when the main method is run with all three parameters set to true.
