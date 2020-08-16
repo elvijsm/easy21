@@ -1,6 +1,4 @@
 # easy21
-Implementation of the game Easy21.
-
 This repository contains code for applying reinforcement learning to the game of Easy21.
 
 Easy21 is a variation of Blackjack and served as an assignment in the UCL course on RL by David Silver in 2015.
